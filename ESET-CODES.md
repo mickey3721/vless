@@ -1,34 +1,4 @@
-# Generated ON: Sunday, 27 April 2025, 12:08:00 UTC
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated ON: Sunday, 27 April 2025, 06:06:53 UTC
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated ON: Sunday, 27 April 2025, 00:24:19 UTC
+# Generated ON: Monday, 28 April 2025, 00:23:36 UTC
 
 > [!CAUTION]
 > Triggered by: schedule
@@ -42,16 +12,16 @@
 > Each code is valid for login on only one device.
 
 ```ruby
-ZXP4ESI07Q
-IUIDAWWZOZ
-T0L08TSKIA
-G853IQXZO7
-7NEK6MNU9I
-TDGX12N479
-36H0M4C7G9
-9X3CLSMBP4
-E4EUPAXV7Q
-DXP7DSTWZU
+SNBD47EOZJ
+IC5LXNMA1E
+KMKMGSFVM7
+WGJ1UNC910
+3KDZ6CU5RN
+SWYGDNSI4R
+XOD28QWZXA
+X1PJPFIO9A
+LQV30QY6A7
+FCY9IXEVMI
 ```
 
 <br>
@@ -59,11 +29,11 @@ DXP7DSTWZU
 ### ESET SECURITY LICENSE
 
 **Name:** ESET Small Business Security
-**Expiry:** 27.05.2025
+**Expiry:** 28.05.2025
 **License Key:**
 
 ```POV-Ray SDL
-N4BM-X98E-RU2N-DJVW-A42T
+5DCV-X9KA-94GC-SC6N-R3DX
 ```
 
 <br>
@@ -73,13 +43,13 @@ N4BM-X98E-RU2N-DJVW-A42T
 **Email:**
 
 ```CSS
-redding.miqueas@fabricoak.com
+bob.hezekyah@fabricoak.com
 ```
 
 **Password:**
 
 ```POV-Ray SDL
-7&"YA~v4u}_9cM!^
+{cw6V2?{6>:$9\%d
 ```
 
 <br>
