@@ -1,3 +1,67 @@
+# Generated ON: Thursday, 01 May 2025, 12:08:48 UTC
+
+> [!CAUTION]
+> Triggered by: schedule
+
+<br><br>
+
+### ESET VPN ACCESS CODES
+
+> [!NOTE]
+> The access codes for ESET VPN will expire eventually.
+> Each code is valid for login on only one device.
+
+```ruby
+P4DSNU0IKW
+VAVE5E9QW3
+HB3AD0JRZ4
+CIH7B8O37C
+DU4NSVKUEP
+7Y9Q2KZLA2
+U2RHW0F5DB
+ETLK9D0I80
+NE689N3UJ4
+5UI62NUD7K
+```
+
+<br>
+
+### ESET SECURITY LICENSE
+
+**Name:** ESET Small Business Security
+**Expiry:** 31.05.2025
+**License Key:**
+
+```POV-Ray SDL
+AUU2-X265-V34H-U6VC-4735
+```
+
+<br>
+
+### ESET ACCOUNT
+
+**Email:**
+
+```CSS
+davier.khoi@fabricoak.com
+```
+
+**Password:**
+
+```POV-Ray SDL
+yPPc1Zau1XE=3i!)]O1w
+```
+
+<br>
+
+### All about ESET VPN
+
+[READ HERE](https://t.me/F_NiREvil/2113)
+
+---
+
+<br><br>
+
 # Generated ON: Thursday, 01 May 2025, 06:08:08 UTC
 
 > [!CAUTION]
