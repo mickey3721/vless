@@ -1,4 +1,4 @@
-# Generated ON: Sunday, 04 May 2025, 06:07:07 UTC
+# Generated ON: Monday, 05 May 2025, 00:23:59 UTC
 
 > [!CAUTION]
 > Triggered by: schedule
@@ -12,16 +12,16 @@
 > Each code is valid for login on only one device.
 
 ```ruby
-8XNNHJP6P3
-BHJYW1712Q
-HZPAJ8AGHB
-BSHR6J2AXL
-OVEWPA7M9Q
-9M4K85900M
-KM1A9FERT8
-ABI2L954S0
-ZELRJMVO94
-4UMD9FCLDB
+JEX2KC4KN1
+MOEQ3FY7G6
+UUODPQRGSB
+0IGSNMUBXX
+963E9ZJ6WN
+9AF0QR3QAB
+55LK6IMFSO
+0KGT7K1FM3
+VDVWEMAWSP
+25CUT6PQDZ
 ```
 
 <br>
@@ -29,11 +29,11 @@ ZELRJMVO94
 ### ESET SECURITY LICENSE
 
 **Name:** ESET Small Business Security
-**Expiry:** 03.06.2025
+**Expiry:** 04.06.2025
 **License Key:**
 
 ```POV-Ray SDL
-4N4X-XH6W-4M7F-UHB3-T9T6
+W3VJ-XRK2-CMRG-2RXS-BW63
 ```
 
 <br>
@@ -43,77 +43,13 @@ ZELRJMVO94
 **Email:**
 
 ```CSS
-medhansh.jaquari@fabricoak.com
+khaliel.jerold@fabricoak.com
 ```
 
 **Password:**
 
 ```POV-Ray SDL
-|*QnYu'=<I]kSz+`?5
-```
-
-<br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated ON: Sunday, 04 May 2025, 00:24:46 UTC
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### ESET VPN ACCESS CODES
-
-> [!NOTE]
-> The access codes for ESET VPN will expire eventually.
-> Each code is valid for login on only one device.
-
-```ruby
-GLMVJ5BFDL
-6S5ZCSA963
-S0A2OOJBO5
-7EFIFP0M4Q
-CJ4VC74HVT
-4950NBJMBD
-MC0MVCEKFP
-SHMPG6N48J
-339Q6ND9ZL
-6B21SBWBBT
-```
-
-<br>
-
-### ESET SECURITY LICENSE
-
-**Name:** ESET Small Business Security
-**Expiry:** 03.06.2025
-**License Key:**
-
-```POV-Ray SDL
-2CPW-X62G-FR8U-RK5A-MDFP
-```
-
-<br>
-
-### ESET ACCOUNT
-
-**Email:**
-
-```CSS
-haddox.cameryn@fabricoak.com
-```
-
-**Password:**
-
-```POV-Ray SDL
-)4\tbNGT(Jn^#`(
+J%M6MA({5}9WF-q
 ```
 
 <br>
